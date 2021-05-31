@@ -1,0 +1,9 @@
+[submodule "sepsis3-mimic"]
+	path = sepsis3-mimic
+	url = git@github.com:kingpfogel/sepsis3-mimic.git
+[submodule "urgent-care-comparative"]
+	path = urgent-care-comparative
+	url = git@github.com:kingpfogel/urgent-care-comparative.git
+[submodule "SepsisPrediction-1"]
+	path = SepsisPrediction-1
+	url = git@github.com:kingpfogel/SepsisPrediction-1.git
